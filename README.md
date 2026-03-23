@@ -1,4 +1,4 @@
-# FullStack eCommerce Marketplace (Brand)
+# Ecommerce Fullstack Design (Brand)
 
 A modern, secure, full-stack eCommerce marketplace built with the MERN stack. Features a beautiful user interface, robust state management, admin dashboard, and built-in security enhancements.
 
